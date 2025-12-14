@@ -1,1 +1,1 @@
-# abo-assets
+# abo-logo
